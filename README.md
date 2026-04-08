@@ -4,6 +4,7 @@ This project is a computer vision-based image colorization system that converts 
 The model learns to map 1-channel grayscale images → 3-channel RGB images while preserving structure and boundaries from line art.
 
 **Pipeline**
+
 1.Load manga images using OpenCV
 
 2.Convert images to grayscale (input) and RGB (target)
@@ -16,6 +17,7 @@ The model learns to map 1-channel grayscale images → 3-channel RGB images whil
 
 
 **Dependency**
+
 Python
 
 PyTorch
